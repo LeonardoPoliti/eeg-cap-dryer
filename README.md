@@ -55,7 +55,7 @@ separate plates with the settings above already applied; select your printer and
 ## Assembly
 
 1. Remove supports and brims.
-2. Drop the 80 mm fan into the square pocket at the bottom of the adapter, blowing upwards. Route its cable down through the base.
+2. Press the 80 mm fan into the square pocket at the bottom of the adapter, blowing upwards. It stays in place without glue or screws. Route its cable down through the base.
 3. Power: connect the fan to a power supply that matches its voltage, either directly or through the optional DC jack.
 4. Press the adapter onto the base until it locks. Glue is optional.
 5. Put the dome on the adapter and turn it to engage the twist-lock.
@@ -63,8 +63,8 @@ separate plates with the settings above already applied; select your printer and
 
 ## Credits
 
-- Idea: [Leonardo Politi](https://github.com/LeonardoPoliti)
-- Design: Samuele Sapio, Sofia Di Stefano
+- Idea: [Leonardo Politi](https://github.com/LeonardoPoliti) 
+- Design: [Samuele Sapio](mailto:samuelesapio02@gmail.com), [Sofia Di Stefano](mailto:sofiadistefano194@gmail.com)
 
 ## Licence
 

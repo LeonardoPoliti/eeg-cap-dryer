@@ -48,9 +48,8 @@ orientation, so do not rotate them. Tested settings:
 **Bambu Lab:** open the project [`cad/cap_dryer.3mf`](cad/cap_dryer.3mf) instead. It has the three parts on
 separate plates with the settings above already applied; select your printer and slice.
 
-- **Cap size:** the dome is Ø170 mm, about 534 mm around, which suits caps larger than 54 cm. Scale the dome in the CAD
-  for other sizes.
-- **Size:** about 180 × 180 × 260 mm assembled.
+- **Cap size:** the dome is Ø170 mm, with a circumference of about 534 mm, which suits caps larger than 54 cm. No other sizes are currently available. If you need a different size, you can modify the dome yourself using the CAD file ([`cad/cap_dryer.step`](cad/cap_dryer.step)).
+- **Total Size:** about 180 × 180 × 260 mm assembled.
 
 ## Assembly
 

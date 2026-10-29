@@ -32,8 +32,8 @@ The dryer is a perforated,  head-shaped dome on a ventilated base. The wet cap i
 
 \*Measured with a Bambu Lab P1S; other printers will differ. Total: about 21.6 h and 555 g.
 
-Load the STL files into your slicer (PrusaSlicer, Cura, OrcaSlicer, Bambu Studio, …). They are already in print
-orientation, so do not rotate them. Recommended settings:
+Load the STL files into your slicer (PrusaSlicer, Bambu Studio, …). They are already in print
+orientation, so do not rotate them. Tested settings:
 
 | Setting | Value |
 |---|---|
@@ -63,11 +63,10 @@ separate plates with the settings above already applied; select your printer and
 
 ## Credits
 
-- Idea: Leonardo Politi
+- Idea: [Leonardo Politi](https://github.com/LeonardoPoliti)
 - Design: Samuele Sapio, Sofia Di Stefano
 
 ## Licence
 
 [CC BY-NC-SA 4.0](LICENSE.md): free to build, use, and adapt for non-commercial purposes, with credit and under
 the same licence. Commercial use needs the authors' permission.
-# eeg-cap-dryer

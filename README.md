@@ -63,8 +63,8 @@ separate plates with the settings above already applied; select your printer and
 
 ## Credits
 
-- Idea: [Leonardo Politi](https://github.com/LeonardoPoliti) 
-- Design: [Samuele Sapio](mailto:samuelesapio02@gmail.com), [Sofia Di Stefano](mailto:sofiadistefano194@gmail.com)
+- Idea: [Leonardo Politi](https://github.com/LeonardoPoliti), `leonardo.politi3@unibo.it`
+- Design: Samuele Sapio, `samuelesapio02@gmail.com`; Sofia Di Stefano, `sofiadistefano194@gmail.com`
 
 ## Licence
 

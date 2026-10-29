@@ -12,7 +12,7 @@ The dryer is a perforated,  head-shaped dome on a ventilated base. The wet cap i
 
 | Assembled | Exploded |
 |---|---|
-| ![Assembled](docs/images/ecd_assembled.png) | ![Exploded view](docs/images/ecd_exploded.png) |
+| <img src="docs/images/ecd_assembled.png" width="400" alt="Assembled"> | <img src="docs/images/ecd_exploded.png" width="400" alt="Exploded view"> |
 
 ## What you need
 

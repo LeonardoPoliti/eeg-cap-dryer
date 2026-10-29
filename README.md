@@ -49,7 +49,7 @@ orientation, so do not rotate them. Tested settings:
 separate plates with the settings above already applied; select your printer and slice.
 
 - **Cap size:** the dome is Ø170 mm, with a circumference of about 534 mm, which suits caps larger than 54 cm. No other sizes are currently available. If you need a different size, you can modify the dome yourself using the CAD file ([`cad/cap_dryer.step`](cad/cap_dryer.step)).
-- **Total Size:** about 180 × 180 × 260 mm assembled.
+- **Size:** about 180 × 180 × 260 mm assembled.
 
 ## Assembly
 
@@ -62,8 +62,8 @@ separate plates with the settings above already applied; select your printer and
 
 ## Credits
 
-- Idea: [Leonardo Politi](https://github.com/LeonardoPoliti), `leonardo.politi3@unibo.it`
-- Design: Samuele Sapio, `samuelesapio02@gmail.com`; Sofia Di Stefano, `sofiadistefano194@gmail.com`
+- Idea: [Leonardo Politi](https://github.com/LeonardoPoliti) (`leonardo.politi3@unibo.it`)
+- Design: Samuele Sapio (`samuelesapio02@gmail.com`); Sofia Di Stefano (`sofiadistefano194@gmail.com`)
 
 ## Licence
 

@@ -1,0 +1,5 @@
+* text=auto
+*.step -text
+*.3mf binary
+*.stl binary
+*.png binary
